@@ -12,8 +12,34 @@
 
 # 🛣️ Networking
 
-<h2>🏁 Purpose/Mission</h2>
-To serve as a one stop hub to not only showcase my skills and interests, but to encourage and assist in guiding those seeking to break into IT.  Whether you are a tech savvy veteran, an Employer considering hiring for a role, or someone new to IT realm, I look to leverage past experience from my Network Engineering background into becoming a more proficient Cybersecurity Professional, knowledgable Data Scientist (AI), all in lieu to a successful Project Manager.  This repo serves to document the journey.<br>  
+<h2>🌐 Overview</h2>
+<h3>📚 Network Engineering: The Backbone of the Connected World</h3><br>  
+Regarding Network Engineering, I want to impress upon you a fundamental truth:
+
+There is no internet. There is no cloud. There is no digital transformation—without networking.
+
+Network Engineering is the unsung backbone of every digital interaction you engage in—from loading a webpage or joining a video call, to enabling global enterprise systems and real-time cloud computing.
+
+At its core, Network Engineering is the discipline that designs, builds, secures, and maintains the infrastructure that allows data to move reliably and efficiently between devices, applications, users, and systems—whether across the room or across the planet.
+
+🔧 Why Network Engineering Matters
+
+We often speak of the “cloud” as if it’s floating in the air, but in reality, the cloud is made of networks: complex, high-performance systems that span data centers, regions, and continents. These networks:
+
+Power the global internet
+
+Enable cloud computing and virtualization
+
+Support cybersecurity frameworks
+
+Drive innovations in AI, IoT, and 5G
+
+Without skilled network engineers, none of it works.
+<br> 
+
+>“Networking is not just about connecting computers. It's about connecting people and ideas.”
+— Unknown <br>
+<br>
 
 
 <br>Colleagues, Onward.<br>
@@ -32,8 +58,7 @@ To serve as a one stop hub to not only showcase my skills and interests, but to 
 
 
 
->"Vision without action is merely a dream. Action without vision just passes the time. Vision with action can change the world." <br>  - Joel A. Barker
-<br>
+
 
 
 <h2>📂 Projects</h2>
