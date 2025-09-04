@@ -22,7 +22,7 @@ Network Engineering is the unsung backbone of every digital interaction you enga
 
 At its core, Network Engineering is the discipline that designs, builds, secures, and maintains the infrastructure that allows data to move reliably and efficiently between devices, applications, users, and systems—whether across the room or across the planet.
 
-🔧 Why Network Engineering Matters
+<h3>🔧 Why Network Engineering Matters</h3>
 
 We often speak of the “cloud” as if it’s floating in the air, but in reality, the cloud is made of networks: complex, high-performance systems that span data centers, regions, and continents. These networks:
 
