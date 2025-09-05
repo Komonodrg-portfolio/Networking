@@ -26,25 +26,25 @@ At its core, Network Engineering is the discipline that designs, builds, secures
 
 We often speak of the “cloud” as if it’s floating in the air, but in reality, the cloud is made of networks: complex, high-performance systems that span data centers, regions, and continents. These networks:
 
-Power the global internet
-
-Enable cloud computing and virtualization
-
-Support cybersecurity frameworks
-
-Drive innovations in AI, IoT, and 5G
+- <b>Power the global internet</b>
+- <b>Enable cloud computing and virtualization</b>
+- <b>Support cybersecurity frameworks</b>
+- <b>Drive innovations in AI, IoT, and 5G</b>
 
 Without skilled network engineers, none of it works.
+<br> 
 <br> 
 
 
 >“Networking is not just about connecting computers. It's about connecting people and ideas.”
 — Unknown <br>
-<br>
 
 
-<br>
+<h2>📂 Projects</h2>
 
+- <b>Building Robust Networking Home Lab</b>
+  - [Networking Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  
 <h2>🪂 <em>One Man's Thoughts...</em></h2>
 A decade ago, it was at a very exciting time for me.  I was recently married and had a young infant at home.  I remember having a conversation with my father-in- law at the hospital the day she was born about how I was <b>NOW</b> planning on taking care of his first born Daughter and newly arrived Granddaughter.  Having been in a healthcare for a while and knowing my position's salary wasn't a feasible way to support a family longterm, I had a choice to make.  I'd always had a passion for gaming, and through working through solutions in my own home network over the years (opening NAT, port forwarding, etc) I already had an accidental but vested interest in Networking.  Making the plunge to commit to becoming a Network Engineer was an easy decision and one of the most life changing, pivotal choices I'm glad I made.  In that hospital cafeteria, I told him within 5 years I looked to become one, as I was currently in school at the time.  It took me 2.<br>
 
@@ -55,9 +55,7 @@ Obtaining my CCNA, first back in 2014, has allowed me not only live a life I'd o
 <br>Colleagues, Onward.<br> 
 
 
-<h2>📂 Projects</h2>
-- <b>Building Robust Networking Home Lab</b>
-  - [Networking Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+
 
 <h2> 🤳 Connect with me:</h2>
 
