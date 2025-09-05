@@ -29,7 +29,7 @@ We often speak of the “cloud” as if it’s floating in the air, but in reali
 - <b>Power the global internet</b>
 - <b>Enable cloud computing and virtualization</b>
 - <b>Support cybersecurity frameworks</b>
-- <b>Drive innovations in AI, IoT, and 5G</b>
+- <b>Drive innovations in AI, IoT, and Wireless (LTE/5G)</b>
 
 Without skilled network engineers, none of it works.
 <br> 
@@ -50,7 +50,7 @@ A decade ago, it was at a very exciting time for me.  I was recently married and
 
 <br>
 
-Obtaining my CCNA, first back in 2014, has allowed me not only live a life I'd only dreamed of as being the firstborn to immigrant parents.  It allowed my an opportunity to work in a field where my mind was always learning and challenged.  I truly believe and am a living testimony of the doors that are possible to walk through professionally by obtaining this certification.  If you have the drive, I say go for it!  The roads it will take you will be fundamentally assuring, financially rewarding, and will take you far in an ever changing IT landscape.  The roads will always be the roads, best to know how to navigate.  
+Obtaining my CCNA, first back in 2014, has allowed me not only live a life I'd only dreamed of as being the firstborn to immigrant parents.  It allowed my an opportunity to work in a field where my mind was always challenged and forced to learn and grow.  I truly believe and am a living testimony of the doors that are possible to walk through professionally by obtaining this certification.  If you have the drive, I say go for it!  The roads it will take you will be fundamentally assuring, financially sustaining, and will take you far in an ever changing IT landscape.  The roads will always be the roads, best to know how to navigate.  
 
 <br>Colleagues, Onward.<br> 
 
