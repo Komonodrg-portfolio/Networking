@@ -37,55 +37,27 @@ Drive innovations in AI, IoT, and 5G
 Without skilled network engineers, none of it works.
 <br> 
 
+
 >“Networking is not just about connecting computers. It's about connecting people and ideas.”
 — Unknown <br>
 <br>
 
 
-<br>Colleagues, Onward.<br>
 <br>
 
-<h3>📄 About Me </h3>
+<h2>🪂 <em>One Man's Thoughts...</em></h2>
+A decade ago, it was at a very exciting time for me.  I was recently married and had a young infant at home.  I remember having a conversation with my father-in- law at the hospital the day she was born about how I was <b>NOW</b> planning on taking care of his first born Daughter and newly arrived Granddaughter.  Having been in a healthcare for a while and knowing my position's salary wasn't a feasible way to support a family longterm, I had a choice to make.  I'd always had a passion for gaming, and through working through solutions in my own home network over the years (opening NAT, port forwarding, etc) I already had an accidental but vested interest in Networking.  Making the plunge to commit to becoming a Network Engineer was an easy decision and one of the most life changing, pivotal choices I'm glad I made.  In that hospital cafeteria, I told him within 5 years I looked to become one, as I was currently in school at the time.  It took me 2.<br>
 
-- <a href="https://github.com/Komonodrg-portfolio/Komonodrg-portfolio/blob/main/SK%20Resume%202025.pdf" target="_blank"><b>Resume / Cover Letter</b></a>
-
-- <a href="https://example.com/projects" target="_blank"><b>Professional Projects</b></a>
-
-- <a href="https://example.com/projects" target="_blank"><b>Mission / Vision</b></a>
 <br>
 
+Obtaining my CCNA, first back in 2014, has allowed me not only live a life I'd only dreamed of as being the firstborn to immigrant parents.  It allowed my an opportunity to work in a field where my mind was always learning and challenged.  I truly believe and am a living testimony of the doors that are possible to walk through professionally by obtaining this certification.  If you have the drive, I say go for it!  The roads it will take you will be fundamentally assuring, financially rewarding, and will take you far in an ever changing IT landscape.  The roads will always be the roads, best to know how to navigate.  
 
-
-
-
-
+<br>Colleagues, Onward.<br> 
 
 
 <h2>📂 Projects</h2>
-<h3>👨‍💻 Cybersecurity</h3>
-
-- <b>Implementing NIST and CIS Fundamentals within Home Lab (Ongoing)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
-
-<h3>🛣️ Networking</h3>
-
 - <b>Building Robust Networking Home Lab</b>
   - [Networking Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
- 
-<h3>💡 AI</h3>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
