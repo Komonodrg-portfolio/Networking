@@ -1,13 +1,4 @@
-
-
-<h1>
-  <sub>
-    <a href="https://github.com/Komonodrg-portfolio">🏠️ Home</a> | 
-    <a href="https://github.com/Komonodrg-portfolio/Cybersecurity">Cybersecurity</a> | 
-    <a href="https://github.com/Komonodrg-portfolio/AI">Data Science (AI)</a> | 
-    <a href="https://github.com/Komonodrg-portfolio/MediaCreation">Media Creation</a>
-  </sub>
-</h1>
+### [Home](https://github.com/Komonodrg-portfolio) | [Cybersecurity](https://github.com/Komonodrg-portfolio/Cybersecurity) | [Data Science (AI)](https://github.com/Komonodrg-portfolio/AI) | [Media Creation](https://github.com/Komonodrg-portfolio/MediaCreation)
 
 # 🛣️ Networking
 
@@ -44,14 +35,14 @@ Without skilled network engineers, none of it works.
 - <b>Building Robust Networking Home Lab</b>
   - [Networking Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
   
-<h2>🪂 <em>One Man's Thoughts...</em></h2>
-A decade ago, it was at a very exciting time for me.  I was recently married and had a young infant at home.  I remember having a conversation with my father-in- law at the hospital the day she was born about how I was <b>NOW</b> planning on taking care of his first born Daughter and newly arrived Granddaughter.  Having been in a healthcare for a while and knowing my position's salary wasn't a feasible way to support a family longterm, I had a choice to make.  I'd always had a passion for gaming, and through working through solutions in my own home network over the years (opening NAT, port forwarding, etc) I already had an accidental but vested interest in Networking.  Making the plunge to commit to becoming a Network Engineer was an easy decision and one of the most life changing, pivotal choices I'm glad I made.  In that hospital cafeteria, I told him within 5 years I looked to become one, as I was currently in school at the time.  It took me 2.<br>
+<h2>🪂 <em>"One Man's Thoughts..."</em></h2>
+<em>A decade ago, it was at a very exciting time for me.  I was recently married and had a young infant at home.  I remember having a conversation with my father-in- law at the hospital the day she was born about how I was <b>NOW</b> planning on taking care of his first born Daughter and newly arrived Granddaughter.  Having been in a healthcare for a while and knowing my position's salary wasn't a feasible way to support a family longterm, I had a choice to make.  I'd always had a passion for gaming, and through working through solutions in my own home network over the years (opening NAT, port forwarding, etc) I already had an accidental but vested interest in Networking.  Making the plunge to commit to becoming a Network Engineer was an easy decision and one of the most life changing, pivotal choices I'm glad I made.  In that hospital cafeteria, I told him within 5 years I looked to become one, as I was currently in school at the time.  It took me 2.<br>
 
 <br>
 
 Obtaining my CCNA, first back in 2014, has allowed me not only live a life I'd only dreamed of as being the firstborn to immigrant parents.  It allowed my an opportunity to work in a field where my mind was always challenged and forced to learn and grow.  I truly believe and am a living testimony of the doors that are possible to walk through professionally by obtaining this certification.  If you have the drive, I say go for it!  The roads it will take you will be fundamentally assuring, financially sustaining, and will take you far in an ever changing IT landscape.  The roads will always be the roads, best to know how to navigate.  
 
-<br>Colleagues, Onward.<br> 
+<br>Colleagues, Onward.</em><br> 
 
 
 
